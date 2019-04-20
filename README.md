@@ -79,7 +79,7 @@ Sci-Hub地址：[http://sci-hub.tw/](http://sci-hub.tw/)
 >问题：脑血管分割的review  
 
 >**DeepVesselNet: Vessel Segmentation, Centerline Prediction, and Bifurcation Detection in 3-D Angiographic Volumes**  
->来源：arXiv:1803.09340, 2018 
+>来源：arXiv:1803.09340, 2018  
 >问题：MRA血管分割和分支点检测  
 >方法：CNN  
 
